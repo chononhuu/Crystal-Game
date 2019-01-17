@@ -1,0 +1,45 @@
+body {
+    background-image: url("../images/background.jpg");
+    color: grey;
+    font-family: 'Acme', sans-serif;
+    
+}
+
+.jumbotron {
+    opacity: 0.9;
+    font-family: 'Questrial', sans-serif;
+    text-align: center;
+    border-radius: 2px;
+}
+
+.display-4 {
+    font-family: 'Cinzel', serif;
+    font-weight: bolder;
+    color: #7b84e3;
+}
+
+.lead {
+    color: #9de610;
+    text-align: justify;
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.row {
+    position: relative;
+    left: 17px;
+    background-color: #e9ecef;
+    opacity: 0.9;
+    width: 100%;
+}
+
+h2 {
+    color: #ba000e;
+    font-size: 30px;
+}
+
+span {
+    color: #f4d918;
+    font-size: 40px;
+}
+
